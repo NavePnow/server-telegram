@@ -83,7 +83,7 @@ I will reimplement this differently later.
         
  
 # Acknowledgement
-https://github.com/geekbeard/ServerStatsBot
+[server-demo](https://github.com/geekbeard/ServerStatsBot)
 
 # To-do list
 1. enhance shell mode
