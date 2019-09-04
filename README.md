@@ -84,4 +84,5 @@ For example:
 
 # To-do list
 1. enhance shell mode
-2. ...
+2. integrate docker activities and telegram bot
+3. express and more
