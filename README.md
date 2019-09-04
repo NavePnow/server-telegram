@@ -1,4 +1,4 @@
-# Server Manager Bot
+# Server Telegram Bot
 
 A Telegram Bot:
 
@@ -85,4 +85,3 @@ For example:
 # To-do list
 1. enhance shell mode
 2. ...
-# server-telegram
