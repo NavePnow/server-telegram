@@ -78,12 +78,9 @@ For example:
 
 * `adminchatid = [443355]`
 * `adminchatid = [443355, 55667788, 99884433]`
-
-I will reimplement this differently later.
-        
- 
+         
 # Acknowledgement
-[server-demo](https://github.com/geekbeard/ServerStatsBot)
+* [server-demo](https://github.com/geekbeard/ServerStatsBot)
 
 # To-do list
 1. enhance shell mode
