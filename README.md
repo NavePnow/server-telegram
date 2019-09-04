@@ -80,7 +80,7 @@ For example:
 * `adminchatid = [443355, 55667788, 99884433]`
          
 # Acknowledgement
-* [server-demo](https://github.com/geekbeard/ServerStatsBot)
+* [Server-demo](https://github.com/geekbeard/ServerStatsBot)
 
 # To-do list
 1. enhance shell mode
